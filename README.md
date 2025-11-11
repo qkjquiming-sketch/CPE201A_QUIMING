@@ -1,2 +1,2 @@
-# CPE201A_
+# CPE201A_QUIMING
 This repository is only for CPE201A
